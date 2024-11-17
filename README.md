@@ -1,8 +1,12 @@
 PBI-Road-Acccident-Analysis
+
 I created a interactive dashboard regarding Road Accident Analysis.
 
-Steps involved :
+Dashboard Image
+Tabl![Screenshot 2024-11-17 105932](https://github.com/user-attachments/assets/a2f1ee78-622b-4ef7-96da-53c5be421ebb)
 
+
+Steps involved :
 Extracting the data from Kaggle.
 Transforming the data in Power Query in Power BI.
 Loading it in the Power BI and creating dashboard using various charts and DAX queries.
@@ -10,8 +14,6 @@ DESCRIPTION : Accident Analysis & Prevention provides wide coverage of the gener
 
 TOOLS USED : Power BI To analyze, I did data cleaning in Power Query, used Time intelligence Function/ Calendar Date Table in Power BI, Data Modelling(Relationship between multiple tables) , YTD and Y0Y Growth Calculations using DAX, KPI and Advanced Generations, Created Custom columns and measures in the reports, Import Images.
 
-Dashboard Image
-Tabl![Screenshot 2024-11-17 105932](https://github.com/user-attachments/assets/a2f1ee78-622b-4ef7-96da-53c5be421ebb)
 
 Introduction
 Dashboard Requirements
